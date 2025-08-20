@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstApp.Eterna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a13da2ae14072d83f70c5115ffefb0f4e6a7c0fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstApp.Eterna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstApp.Eterna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

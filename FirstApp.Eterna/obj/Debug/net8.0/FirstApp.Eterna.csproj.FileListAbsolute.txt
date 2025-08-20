@@ -137,3 +137,4 @@ C:\Users\zeyna\source\repos\FirstApp\FirstApp.Eterna\bin\Debug\net8.0\runtimes\w
 C:\Users\zeyna\source\repos\FirstApp\FirstApp.Eterna\obj\Debug\net8.0\FirstApp.Eterna.csproj.AssemblyReference.cache
 C:\Users\zeyna\source\repos\FirstApp\FirstApp.Eterna\obj\Debug\net8.0\FirstApp.447003C8.Up2Date
 C:\Users\zeyna\source\repos\FirstApp\FirstApp.Eterna\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\zeyna\source\repos\FirstApp\FirstApp.Eterna\obj\Debug\net8.0\FirstApp.Eterna.sourcelink.json
