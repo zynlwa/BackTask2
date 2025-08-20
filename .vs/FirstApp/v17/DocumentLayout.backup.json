@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\viewmodels\\blogdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\viewmodels\\blogdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\viewmodels\\blogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +27,12 @@
       "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\migrations\\20250820111027_mig_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\migrations\\20250820111027_mig_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Models\\Client.cs",
               "RelativeDocumentMoniker": "FirstApp.Eterna\\Models\\Client.cs",
@@ -55,25 +59,37 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T09:05:11.035Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogDetailVm.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\BlogDetailVm.cs",
+              "RelativeDocumentMoniker": "FirstApp.Eterna\\ViewModels\\BlogDetailVm.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\BlogDetailVm.cs",
+              "RelativeToolTip": "FirstApp.Eterna\\ViewModels\\BlogDetailVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:35:52.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BlogVm.cs",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\BlogVm.cs",
               "RelativeDocumentMoniker": "FirstApp.Eterna\\ViewModels\\BlogVm.cs",
               "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\BlogVm.cs",
               "RelativeToolTip": "FirstApp.Eterna\\ViewModels\\BlogVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T11:21:41.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "20250820111027_mig_3.cs",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Migrations\\20250820111027_mig_3.cs",
               "RelativeDocumentMoniker": "FirstApp.Eterna\\Migrations\\20250820111027_mig_3.cs",
@@ -81,12 +97,11 @@
               "RelativeToolTip": "FirstApp.Eterna\\Migrations\\20250820111027_mig_3.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T11:10:31.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T11:10:31.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "EternaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Data\\EternaDbContext.cs",
               "RelativeDocumentMoniker": "FirstApp.Eterna\\Data\\EternaDbContext.cs",
@@ -94,12 +109,11 @@
               "RelativeToolTip": "FirstApp.Eterna\\Data\\EternaDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T11:08:55.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T11:08:55.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "FirstApp.Eterna\\Models\\Blog.cs",
@@ -112,39 +126,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Blog\\Detail.cshtml",
               "RelativeDocumentMoniker": "FirstApp.Eterna\\Views\\Blog\\Detail.cshtml",
               "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Blog\\Detail.cshtml",
               "RelativeToolTip": "FirstApp.Eterna\\Views\\Blog\\Detail.cshtml",
-              "ViewState": "AgIAADcBAAAAAAAAAAAkwEEBAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABMBAAAAAAAAAAAAABgBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-20T11:04:57.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "FirstApp.Eterna\\Views\\Blog\\Index.cshtml",
               "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Blog\\Index.cshtml",
               "RelativeToolTip": "FirstApp.Eterna\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAowKoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-20T10:59:19.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "FirstApp.Eterna\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Controllers\\BlogController.cs*",
-              "RelativeToolTip": "FirstApp.Eterna\\Controllers\\BlogController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "FirstApp.Eterna\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T10:59:02.011Z",
               "EditorCaption": ""

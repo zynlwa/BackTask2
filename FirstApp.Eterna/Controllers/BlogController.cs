@@ -1,6 +1,8 @@
 ﻿using FirstApp.Eterna.Data;
+using FirstApp.Eterna.Models;
 using FirstApp.Eterna.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace FirstApp.Eterna.Controllers
 {
@@ -17,9 +19,19 @@ namespace FirstApp.Eterna.Controllers
 
             return View(blogVm);
         }
-        public IActionResult Detail()
+        public IActionResult Detail(int id)
         {
-             return View();
+            Blog blog = eternaDbContext.Blogs.FirstOrDefault(b => b.Id == id);
+            if (blog == null) 
+                return NotFound();
+            BlogDetailVm blogDetailVm = new BlogDetailVm()
+            {
+                Blog = blog,
+                RecentBlogs = eternaDbContext.Blogs.OrderByDescending(b => b.Id).ToList(),
+                Category = eternaDbContext.Category.ToList()
+            };
+
+            return View(blogDetailVm);
         }
     }
 }
