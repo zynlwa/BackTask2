@@ -22,5 +22,17 @@ namespace FirstApp.Eterna.Controllers
 
             return View(portfolioVm);
         }
+        public IActionResult Detail(int id)
+        { 
+            var portfolio = eternaDbContext.Portfolio
+                .Include (p => p.Category)
+                .Include (p => p.PortfolioImages)
+                .FirstOrDefault(p=>p.Id == id);
+            if(portfolio == null) 
+                return NotFound();
+
+
+            return View(portfolio);
+        }
     }
 }
