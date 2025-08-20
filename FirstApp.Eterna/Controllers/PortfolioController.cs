@@ -11,13 +11,17 @@ namespace FirstApp.Eterna.Controllers
         {
             PortfolioVm portfolioVm = new PortfolioVm()
             {
+                Categories = eternaDbContext.Category.ToList(),
                 Portfolios = eternaDbContext.Portfolio
-                .Include(p=>p.PortfolioImages)
+                .Include(p => p.PortfolioImages)
                 .ToList(),
-                
-                Categories = eternaDbContext.Category.ToList()
-            };   
 
+
+            };
+            //var data = eternaDbContext.Portfolio.FirstOrDefault();
+            //eternaDbContext.Entry(data) //explicit
+            //    .Reference(p => p.Category) //birnece Collection
+            //    .Load();
 
 
             return View(portfolioVm);

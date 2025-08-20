@@ -3,60 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\portfolio\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\portfolio\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\viewmodels\\portfoliovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\viewmodels\\portfoliovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\migrations\\20250820042931_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\migrations\\20250820042931_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\data\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\viewmodels\\blogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\viewmodels\\blogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\migrations\\20250820111027_mig_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\migrations\\20250820111027_mig_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\migrations\\20250820033149_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\migrations\\20250820033149_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|c:\\users\\zeyna\\source\\repos\\firstapp\\firstapp.eterna\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC38EA1D-AB01-4D32-AC6A-D2AA0414B644}|FirstApp.Eterna\\FirstApp.Eterna.csproj|solutionrelative:firstapp.eterna\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,182 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Portfolio\\Detail.cshtml",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Views\\Portfolio\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Portfolio\\Detail.cshtml",
-              "RelativeToolTip": "FirstApp.Eterna\\Views\\Portfolio\\Detail.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T05:46:44.899Z",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "FirstApp.Eterna\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Models\\Client.cs",
+              "RelativeToolTip": "FirstApp.Eterna\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:05:11.035Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PortfolioController.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Controllers\\PortfolioController.cs",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Controllers\\PortfolioController.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Controllers\\PortfolioController.cs",
-              "RelativeToolTip": "FirstApp.Eterna\\Controllers\\PortfolioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAApAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BlogVm.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\BlogVm.cs",
+              "RelativeDocumentMoniker": "FirstApp.Eterna\\ViewModels\\BlogVm.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\BlogVm.cs",
+              "RelativeToolTip": "FirstApp.Eterna\\ViewModels\\BlogVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T04:13:02.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FirstApp.Eterna\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T04:07:06.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FirstApp.Eterna\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T02:33:27.819Z",
+              "WhenOpened": "2025-08-20T11:21:41.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FirstApp.Eterna\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowA8AAAAfAAAAAAAAAA==",
+              "Title": "20250820111027_mig_3.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Migrations\\20250820111027_mig_3.cs",
+              "RelativeDocumentMoniker": "FirstApp.Eterna\\Migrations\\20250820111027_mig_3.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Migrations\\20250820111027_mig_3.cs",
+              "RelativeToolTip": "FirstApp.Eterna\\Migrations\\20250820111027_mig_3.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:33:09.969Z",
+              "WhenOpened": "2025-08-20T11:10:31.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PortfolioVm.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\PortfolioVm.cs",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\ViewModels\\PortfolioVm.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\PortfolioVm.cs",
-              "RelativeToolTip": "FirstApp.Eterna\\ViewModels\\PortfolioVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T04:51:06.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250820042931_mig_1.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Migrations\\20250820042931_mig_1.cs",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Migrations\\20250820042931_mig_1.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Migrations\\20250820042931_mig_1.cs",
-              "RelativeToolTip": "FirstApp.Eterna\\Migrations\\20250820042931_mig_1.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T04:29:36.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeVm.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\HomeVm.cs",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\ViewModels\\HomeVm.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\ViewModels\\HomeVm.cs",
-              "RelativeToolTip": "FirstApp.Eterna\\ViewModels\\HomeVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T03:39:42.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "EternaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Data\\EternaDbContext.cs",
               "RelativeDocumentMoniker": "FirstApp.Eterna\\Data\\EternaDbContext.cs",
               "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Data\\EternaDbContext.cs",
               "RelativeToolTip": "FirstApp.Eterna\\Data\\EternaDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:43:49.827Z"
+              "WhenOpened": "2025-08-20T11:08:55.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20250820033149_initial.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Migrations\\20250820033149_initial.cs",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Migrations\\20250820033149_initial.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Migrations\\20250820033149_initial.cs",
-              "RelativeToolTip": "FirstApp.Eterna\\Migrations\\20250820033149_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "FirstApp.Eterna\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Models\\Blog.cs",
+              "RelativeToolTip": "FirstApp.Eterna\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T03:31:55.134Z"
+              "WhenOpened": "2025-08-20T11:07:11.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\appsettings.Development.json",
-              "RelativeToolTip": "FirstApp.Eterna\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-20T02:51:12.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Program.cs",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Program.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Program.cs",
-              "RelativeToolTip": "FirstApp.Eterna\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:49:27.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Models\\Slider.cs",
-              "RelativeToolTip": "FirstApp.Eterna\\Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:44:45.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FirstApp.Eterna\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FirstApp.Eterna\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAuwGsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Blog\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FirstApp.Eterna\\Views\\Blog\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Blog\\Detail.cshtml",
+              "RelativeToolTip": "FirstApp.Eterna\\Views\\Blog\\Detail.cshtml",
+              "ViewState": "AgIAADcBAAAAAAAAAAAkwEEBAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T02:29:43.141Z"
+              "WhenOpened": "2025-08-20T11:04:57.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstApp.Eterna\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "FirstApp.Eterna\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAowKoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T10:59:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "FirstApp.Eterna\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\FirstApp\\FirstApp.Eterna\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "FirstApp.Eterna\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:59:02.011Z",
+              "EditorCaption": ""
             }
           ]
         }

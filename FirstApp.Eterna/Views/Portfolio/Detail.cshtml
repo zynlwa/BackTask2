@@ -59,7 +59,7 @@
                     <ul>
                         <li><strong>Category</strong>: @Model.Category.Name</li>
                         <li><strong>Client</strong>: @Model.Client</li>
-                        <li><strong>Project date</strong>: @Model.CreatedAt</li>
+                        <li><strong>Project date</strong>: @Model.CreatedAt.ToString("dd MMMM yyyy")</li>
                         <li><strong>Project URL</strong>: <a href="#">@Model.Link</a></li>
                     </ul>
                 </div>
